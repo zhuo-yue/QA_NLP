@@ -1,0 +1,4 @@
+**/*.pyc
+**/ltp_data
+word_vector.bin
+document/
