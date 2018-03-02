@@ -36,7 +36,6 @@ def sentence_process_main():
     arc_tuples=parser_tuples(words_list,postags,arcs)
  
     return arc_tuples
-    
 
 
 if __name__=="__main__":
